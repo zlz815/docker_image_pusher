@@ -7,4 +7,5 @@
 ##docker.io/homeassistant/home-assistant:latest
 ##docker.io/lissy93/dashy
 ###docker.io/gitea/gitea
-linuxserver/code-server
+####linuxserver/code-server
+hslr/sun-panel:latest
