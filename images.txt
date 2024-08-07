@@ -9,4 +9,5 @@
 ###docker.io/gitea/gitea
 ####linuxserver/code-server
 #####hslr/sun-panel:latest
-vaultwarden/server:latest
+#@vaultwarden/server:latest
+jc21/nginx-proxy-manager:latest
