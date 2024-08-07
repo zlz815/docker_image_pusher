@@ -8,4 +8,5 @@
 ##docker.io/lissy93/dashy
 ###docker.io/gitea/gitea
 ####linuxserver/code-server
-hslr/sun-panel:latest
+#####hslr/sun-panel:latest
+vaultwarden/server:latest
