@@ -6,8 +6,8 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 ##docker.io/homeassistant/home-assistant:latest
 ##docker.io/lissy93/dashy
-###docker.io/gitea/gitea
+docker.io/gitea/gitea
 ####linuxserver/code-server
 #####hslr/sun-panel:latest
 #@vaultwarden/server:latest
-jc21/nginx-proxy-manager:latest
+#@@jc21/nginx-proxy-manager:latest
