@@ -4,10 +4,11 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-docker.io/homeassistant/home-assistant:latest
+##docker.io/homeassistant/home-assistant:latest
 ##docker.io/lissy93/dashy
 ##docker.io/gitea/gitea
 ####linuxserver/code-server
 #####hslr/sun-panel:latest
 #@vaultwarden/server:latest
 #@@jc21/nginx-proxy-manager:latest
+crazymax/fail2ban:latest
