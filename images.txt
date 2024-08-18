@@ -11,4 +11,5 @@
 #####hslr/sun-panel:latest
 #@vaultwarden/server:latest
 #@@jc21/nginx-proxy-manager:latest
-crazymax/fail2ban:latest
+###crazymax/fail2ban:latest
+deluan/navidrome
