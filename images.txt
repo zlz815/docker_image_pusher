@@ -13,4 +13,5 @@
 #@@jc21/nginx-proxy-manager:latest
 ###crazymax/fail2ban:latest
 ##deluan/navidrome
-ahmadnassri/vscode-server:latest
+#ahmadnassri/vscode-server:latest
+ghcr.io/idmedia/hass-unraid:latest
