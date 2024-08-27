@@ -14,4 +14,5 @@
 ###crazymax/fail2ban:latest
 ##deluan/navidrome
 #ahmadnassri/vscode-server:latest
-ghcr.io/idmedia/hass-unraid:latest
+##ghcr.io/idmedia/hass-unraid:latest
+redis:latest
