@@ -15,4 +15,5 @@
 ##deluan/navidrome
 #ahmadnassri/vscode-server:latest
 ##ghcr.io/idmedia/hass-unraid:latest
-redis:latest
+#redis:latest
+tensorchord/pgvecto-rs:pg16-v0.3.0
